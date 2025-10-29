@@ -1,4 +1,4 @@
 fn main() {
-    let mut x = 42;
+    let x = 42;
     println!("{x}");
 }
